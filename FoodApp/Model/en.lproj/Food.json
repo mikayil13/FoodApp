@@ -1,0 +1,158 @@
+[
+    {
+        "foodName":"Burger",
+        "foodImage": "burger.image",
+        "item": [
+            {
+                "itemName": "BigFoot burger",
+                "itemImage": "bigFoot.image",
+                    "price":    5.50
+            },
+            {
+                "itemName": "cheese burger",
+                "itemImage": "cheese.image",
+                "price":    6.40
+            },
+            {
+                "itemName": "BeefCake burger",
+                "itemImage": "beefCake.image",
+                "price":    5.20
+            },
+            {
+                "itemName": "Bbq burger",
+                "itemImage": "bbq.image",
+                "price":    8.50
+            },
+            {
+                "itemName": "Chicken burger",
+                "itemImage": "chicken.image",
+                "price":    7.60
+            }
+        ]
+    },
+    {
+        "foodName":"Asia",
+        "foodImage": "asia.image",
+        "item": [
+            {
+                "itemName": "Kımbap",
+                "itemImage": "kimbap.image",
+                "price":    7.50
+            },
+            {
+                "itemName": "Okonomiyaki",
+                "itemImage": "okonomiyaki.image",
+                "price":    5.50
+               
+            },
+            {
+                "itemName": "Dumplıng",
+                "itemImage": "dumpling.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "Gohan",
+                "itemImage": "gohan.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "Sushi",
+                "itemImage": "sushi.image",
+                "price":    5.50
+            }
+        ]
+    },
+    {
+        "foodName":"Italian",
+        "foodImage": "Italian.image",
+        "item": [
+            {
+                "itemName": "Polenta",
+                "itemImage": "polenta.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "Ribollita",
+                "itemImage": "ribollita.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "Risotto alla Milanese",
+                "itemImage": "Risotto alla Milanese.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "Cotoletta alla Milanese",
+                "itemImage": "Cotoletta alla Milanese.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "Osso Buco alla Milanese",
+                "itemImage": "Osso Buco alla Milanese.image",
+                "price":    5.50
+            }
+        ]
+    },
+    {
+        "foodName":"Desert",
+        "foodImage": "desert.image",
+        "item": [
+            {
+                "itemName": "VANILLA SAN SEBASTIAN",
+                "itemImage": "VANILLA SAN SEBASTIAN.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "MANQO CHEWKEY",
+                "itemImage": "MANQO CHEWKEY.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "MANGO TARTOLET",
+                "itemImage": "MANGO TARTOLET.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "TIRAMISU",
+                "itemImage": "tIramisu.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "ICE CREAM",
+                "itemImage": "ICE CREAM.image",
+                "price":    5.50
+            }
+        ]
+    },
+    {
+        "foodName":"Salad",
+        "foodImage": "salad.image",
+        "item": [
+            {
+                "itemName": "Simple Green Salad",
+                "itemImage": "salad.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "Caesar Salad",
+                "itemImage": "Caesar Salad.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "Beet Salad",
+                "itemImage": "Beet Salad.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "Watermelon Salad",
+                "itemImage": "Watermelon Salad.image",
+                "price":    5.50
+            },
+            {
+                "itemName": "Greek Salad",
+                "itemImage": "Greek Salad.image",
+                "price":    5.50
+            }
+        ]
+    }
+]
